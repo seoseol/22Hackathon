@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/qwejk/AndroidStudioProjects/22Hackathon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1835" />
+        <entry key="..\:/Users/qwejk/AndroidStudioProjects/22Hackathon/app/src/main/res/layout/actiivity_test.xml" value="0.175" />
         <entry key="..\:/Users/qwejk/AndroidStudioProjects/22Hackathon/app/src/main/res/layout/activity_main.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/qwejk/AndroidStudioProjects/22Hackathon/app/src/main/res/layout/activity_splash.xml" value="0.175" />
       </map>
     </option>
   </component>
