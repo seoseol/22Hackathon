@@ -8,6 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="mainColor">#FFE68F</color>
-    <color name="subColor">#FFB1BC</color>
+    <color name="mainColor">#FFE58B</color>
+    <color name="subColor">#FFDB5E</color>
+    <color name="pointColor">#FFBB9D</color>
+    <color name="backgroundColor">#F7F7F7</color>
 </resources>
